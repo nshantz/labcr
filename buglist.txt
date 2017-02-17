@@ -1,5 +1,7 @@
 Categories: CG - Coding Guideline violation, MD - Miscellaneous defect
 
+Joshua do evens. Nate do odds.
+
 Severity: BLOCKER = RED, MAJOR = BLUE, LOW = YELLOW
 
 ID#  |  Location: File & Line #  |  Description  |  Category  |  Severity
