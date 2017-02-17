@@ -8,7 +8,7 @@ ID#  |  Location: File & Line #  |  Description  |  Category  |  Severity
 
 2    |  Checking.java, line 56-60 | {} on different forms, not consistent | MD  | LOW
 
-3    |  Account.java, line 5  | missing banner comments for class definition | CG  | LOW
+3    |  Account.java, line 5  | missing banner comments for code definition | CG 1 | LOW
 
-4    | Main.java, line 4  | missing full banner comments for class definition | CG  | LOW
+4    | Main.java, line 4  | missing full banner comments for class definition | CG 2 | LOW
 
