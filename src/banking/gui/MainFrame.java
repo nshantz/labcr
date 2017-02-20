@@ -99,12 +99,12 @@ class MainFrame extends JFrame {
 	private void constructForm() {
 
 		//*** Make these read from properties
+//removing tabbed spacing
+		typeLabel = new JLabel(props.getProperty("TypeLabel"));
 
-		typeLabel		= new JLabel(props.getProperty("TypeLabel"));
+		nameLabel = new JLabel(props.getProperty("NameLabel"));
 
-		nameLabel		= new JLabel(props.getProperty("NameLabel"));
-
-		balanceLabel	= new JLabel(props.getProperty("BalanceLabel"));
+		balanceLabel = new JLabel(props.getProperty("BalanceLabel"));
 
 
 
