@@ -1,6 +1,10 @@
 package banking.primitive.core;
 
+/**
+	Class: Account
 
+	Description: This class manages the internal workings of a bank account.
+*/
 
 public abstract class Account implements java.io.Serializable {
 
