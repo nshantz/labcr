@@ -1,3 +1,10 @@
+//JOSH CHANGED THIS | ISSUE #4
+/**
+  Class: Main
+  
+  Description: This is the main class where the program is all connected to. It is the program where the program can run. It makes sure the array of args is only having a length of one. If it does not, then the program exits. 
+*/
+
 package banking.gui;
 
 
