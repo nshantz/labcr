@@ -52,8 +52,11 @@ public class Checking extends Account {
 		}
 		return false;
 	}
-
-	public String getType() { return "Checking"; }
+	
+	//JOSH CHANGED THIS ISSUE #2
+	public String getType() { 
+		return "Checking"; 
+	}
 	
 	public String toString() {
 		return "Checking: " + getName() + ": " + getBalance();
